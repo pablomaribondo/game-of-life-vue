@@ -1,24 +1,10 @@
-# game-of-life
+# Game of Life
 
-## Project setup
-```
-npm install
-```
+## Desenvolvido com
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+* [Vue.js](https://vuejs.org/)
+* [BootstrapVue](https://bootstrap-vue.org/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Screenshot
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![alt text](screenshot.png)
